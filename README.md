@@ -49,7 +49,7 @@ Direktori `model_save/` akan dibuat secara otomatis ketika Anda menjalankan sel-
 
 2. **Install Dependencies**:
    ```bash
-   pip install streamlit torch "transformers[torch]" pandas scikit-learn numpy matplotlib plotly
+   pip install transformers datasets pandas scikit-learn torch numpy seaborn matplotlib streamlit
    ```
    
    Untuk `code.ipynb` (pelatihan & baseline):
