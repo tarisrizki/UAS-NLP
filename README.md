@@ -64,3 +64,7 @@ Direktori `model_save/` akan dibuat secara otomatis ketika Anda menjalankan sel-
    ```bash
    streamlit run app.py
    ```
+
+## Dikerjakan Oleh
+Tiara Agustin (2208107010004)
+M. Taris Rizki (2208107010047)
