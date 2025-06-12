@@ -66,5 +66,5 @@ Direktori `model_save/` akan dibuat secara otomatis ketika Anda menjalankan sel-
    ```
 
 ## Dikerjakan Oleh
-Tiara Agustin (2208107010004)
-M. Taris Rizki (2208107010047)
+* Tiara Agustin (2208107010004)
+* M. Taris Rizki (2208107010047)
